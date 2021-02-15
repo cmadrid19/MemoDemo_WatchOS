@@ -7,4 +7,4 @@ CoreData, CRUD Operations
 
 ![alt text](https://github.com/cmadrid19/MemoDemo_WatchOS/blob/main/images/listing.png)
 
-![alt text](https://github.com/cmadrid19/MemoDemo_WatchOS/blob/main/images/mainView.png)
+![alt text](https://github.com/cmadrid19/MemoDemo_WatchOS/blob/main/images/mainVIew.png)
